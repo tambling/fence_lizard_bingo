@@ -19,3 +19,6 @@ brower, print it, use a dry-erase marker on your screen, whatever.
 
 ##Why?
 Because we're nerds now. We do shit like this.
+
+Watch my dumb ass get asked to repeat Phase 1 because I did this instead
+of polishing up my solo challenges.
