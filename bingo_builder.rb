@@ -7,7 +7,7 @@ class BingoBuilder
 
   def parse_text(import_file)
     File.open(import_file).each_line do |line|
-      @squares << line
+      @squares << line.chomp
     end
   end
 
