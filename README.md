@@ -22,7 +22,9 @@ I have big plans for this.
 Near Term:
 * Rewrite HTML renderer using ERB, instead of the hacky solution I have in place right now.
 * Beautification: add a style.css file, possibly even Jony Ivefying the design.
+
 Middle Term:
 * Make GUI and push to Heroku.
 * Automate production of more than one board.
+
 If you have a feature you'd like to see in Lizard Bingo, leave a comment, or fork this repo and implement it yourself! This idea, and the code that accompanies it, is completely open.
