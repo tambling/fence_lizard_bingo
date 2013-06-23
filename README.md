@@ -19,6 +19,7 @@ brower, print it, use a dry-erase marker on your screen, whatever.
 
 ##What's next?
 I have big plans for this.
+
 Near Term:
 * Rewrite HTML renderer using ERB, instead of the hacky solution I have in place right now.
 * Beautification: add a style.css file, possibly even Jony Ivefying the design.
