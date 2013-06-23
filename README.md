@@ -17,8 +17,12 @@ each item. Run bingo_builder.rb. In the directory that contains bingo_builder.rb
 and squares.txt, there should now be board.html. Open that up in a web
 brower, print it, use a dry-erase marker on your screen, whatever.
 
-##Why?
-Because we're nerds now. We do shit like this.
-
-Watch my dumb ass get asked to repeat Phase 1 because I did this instead
-of polishing up my solo challenges.
+##What's next?
+I have big plans for this.
+Near Term:
+* Rewrite HTML renderer using ERB, instead of the hacky solution I have in place right now.
+* Beautification: add a style.css file, possibly even Jony Ivefying the design.
+Middle Term:
+* Make GUI and push to Heroku.
+* Automate production of more than one board.
+If you have a feature you'd like to see in Lizard Bingo, leave a comment, or fork this repo and implement it yourself! This idea, and the code that accompanies it, is completely open.
